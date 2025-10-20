@@ -4,7 +4,7 @@
 Understand the basics of cloud object storage and learn how to create and manage storage buckets effectively using AWS S3.
 
 ☁️ What Are Buckets in AWS S3?
-In Amazon S3 (Simple Storage Service), a bucket is like a container that holds your data — such as text files, images, videos, and backups.
+In Amazon S3 (Simple Storage Service), a bucket is like a container that holds your data such as text files, images, videos, and backups.
 Each bucket has a globally unique name and is used to organize and store objects (files) in the cloud.
 
 Buckets help you:
